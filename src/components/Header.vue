@@ -1,14 +1,16 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+    <div class="navbar-brand js-scroll-trigger">
       <span class="d-block d-lg-none">YOUR NAME</span>
       <span class="d-none d-lg-block">
-      <!-- USE IT <img class="img-fluid img-profile rounded-circle mx-auto mb-2"
-         src="https://niochi.com/img/logo_niochi_color.png" alt />-->
-        <img class="img-fluid mx-auto mb-2"
-         src="@/assets/images/niochi.com.png" width="140" alt />
+        <!-- USE IT <img class="img-fluid img-profile rounded-circle mx-auto mb-2"
+        src="https://niochi.com/img/logo_niochi_color.png" alt />-->
+        <a href="https://niochi.com">
+          <img class="img-fluid mx-auto mb-2"
+           src="@/assets/images/niochi.com.png" width="140" alt />
+        </a>
       </span>
-    </a>
+    </div>
     <button
       class="navbar-toggler"
       type="button"
