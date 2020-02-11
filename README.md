@@ -1,4 +1,6 @@
-# vuelearn
+# RESUME VUE.JS THEME
+
+![sreenshot](https://github.com/OrionWambert/Resume-Vue.Js-Theme/blob/master/src/assets/images/screenshot.png)
 
 ## Project setup
 ```
