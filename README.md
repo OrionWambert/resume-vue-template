@@ -1,4 +1,5 @@
-# RESUME VUE.JS THEME
+# RESUME VUE.JS TEMPLATE 
+
 Free and beautiful Vue.js template
 
 ![sreenshot](https://github.com/OrionWambert/Resume-Vue.Js-Theme/blob/master/src/assets/images/screenshot.png)
